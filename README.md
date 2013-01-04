@@ -1,4 +1,4 @@
-seamlessrdp
+SeamlessRDP
 ===========
 
 Esse artigo é para quem procura uma forma de executar aplicações que são compatíveis somente com o Windows no Linux. Através de uma conexão SeamlessRDP os aplicativos serão executados de forma transparente, comportando-se como aplicações locais do linux.
